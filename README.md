@@ -14,15 +14,7 @@ Praktikum ini membahas komunikasi antar-service menggunakan gRPC dengan bahasa G
 
 ## 3. Struktur Folder
 
-```text
-tugas 2/
-├── README.md
-└── grpc-polyglot-lab/
-    ├── user.proto
-    ├── go-server/
-    ├── python-client/
-    └── node-client/
-```
+![Diagram Struktur Folder](img/Diagram.png)
 
 ## 4. Langkah Menjalankan Program
 
